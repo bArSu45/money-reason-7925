@@ -34,10 +34,10 @@ export default function Navbar() {
                         <h4>Home</h4>
                     </Link>
                     <Link to="/stories">
-                        <h4>Stories</h4>
+                        <h4>Stories....</h4>
                     </Link>
                     <Link to="/sale">
-                        <h4>Sale</h4>
+                        <h4>Sale....</h4>
                     </Link>
                 </div>
             </div>
