@@ -22,16 +22,16 @@ export default function Navbar() {
                         <h4>New</h4>
                     </Link>
                     <Link to="/mens">
-                        <h4>Men</h4>
+                        <h4>Men....</h4>
                     </Link>
                     <Link to="/women">
-                        <h4>Women</h4>
+                        <h4>Women....</h4>
                     </Link>
                     <Link to="/kids">
-                        <h4>Kids</h4>
+                        <h4>Kids....</h4>
                     </Link>
                     <Link to="/products/home">
-                        <h4>Home</h4>
+                        <h4>Home.....</h4>
                     </Link>
                     <Link to="/stories">
                         <h4>Stories....</h4>
