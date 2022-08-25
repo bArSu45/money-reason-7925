@@ -1,10 +1,10 @@
 import React from "react";
 import { Link, Route, Routes } from "react-router-dom";
-// import styles from "../styles/Navbar.module.css";
-// import { HeartIcon, MainLogo } from "./SvgIcons";
-// import { useDispatch, useSelector } from "react-redux";
-// import { openLogin } from "../features/Login/LoginSlice";
-// import { User } from "./Icons";
+import styles from "../styles/Navbar.module.css";
+import { HeartIcon, MainLogo } from "./SvgIcons";
+import { useDispatch, useSelector } from "react-redux";
+import { openLogin } from "../features/Login/LoginSlice";
+import { User } from "./Icons";
 import { useNavigate } from "react-router-dom";
 
 export default function Navbar() {
